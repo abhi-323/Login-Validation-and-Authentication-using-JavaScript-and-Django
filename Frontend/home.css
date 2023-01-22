@@ -1,0 +1,25 @@
+body {
+  background-image: url("https://cdn.pixabay.com/photo/2015/12/01/15/43/black-1072366_960_720.jpg");
+  min-height: 100vh;
+  color: greenyellow;
+  background-size: cover;
+}
+
+h1:hover {
+  color: aquamarine;
+}
+
+.navbar {
+  padding: 40px;
+  margin-top: 0px;
+  background-image: url("https://img.freepik.com/free-photo/white-painted-wall-texture-background_53876-138197.jpg?w=900&t=st=1663217679~exp=1663218279~hmac=52bc59c461c2ec74f08319c92bf3d07f0ee63b26428f078e78c28a82cb145db3");
+}
+
+a {
+  color: black;
+  border-color: black;
+}
+
+a:hover {
+  color: blueviolet;
+}
